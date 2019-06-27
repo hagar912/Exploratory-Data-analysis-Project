@@ -47,12 +47,10 @@ When you are finished with the assignment, push your git repository to GitHub so
 
 The four plots that you will need to construct are shown below.
 
-# Plot 1
-[plot1](https://github.com/hagar912/Exploratory-Data-analysis-Project/blob/master/plot1.png)
+1- [plot1](https://github.com/hagar912/Exploratory-Data-analysis-Project/blob/master/plot1.png)
 
-# Plot 2
-[plot2]()
-# Plot 3
-[plot3]()
-# Plot 4
-[plot4]()
+2- [plot2](https://github.com/hagar912/Exploratory-Data-analysis-Project/blob/master/plot2.png)
+
+3- [plot3](https://github.com/hagar912/Exploratory-Data-analysis-Project/blob/master/plot3.png)
+
+4- [plot4](https://github.com/hagar912/Exploratory-Data-analysis-Project/blob/master/plot4.png)
